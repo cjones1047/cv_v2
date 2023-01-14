@@ -1,3 +1,38 @@
 body {
-    background-color: white;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.top_container {
+    background-color: #E1D7C6;
+}
+
+.middle_container {
+    height: 200px;
+    width: 200px;
+    background-color: #ECE8DD;
+}
+
+.bottom_container {
+    height: 200px;
+    width: 200px;
+    background-color: #579BB1;
+}
+
+.python {
+    font-weight: bold;
+}
+
+.top_cloud {
+    margin-top: 50px;
+    position: relative;
+    left: 200px;
+}
+
+.bottom_cloud {
+    position: absolute;
 }
